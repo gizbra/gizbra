@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
  
-### Operating System
+### Operating System:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&nbsp;
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)&nbsp;
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)&nbsp;
@@ -36,11 +36,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 
 
-### Artificial Intelligence
+### Artificial Intelligence:
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)&nbsp;
 
 
-### Cloud Storage
+### Cloud Storage:
 ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)&nbsp;
 
 ### Cloud System
