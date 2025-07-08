@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
 </p>
 
-- 🌱 Atualmente estou aprendendo **![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)&nbsp;**  &  **[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)**
+- 🌱 Atualmente estou aprendendo **![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)&nbsp;** &  **[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)**
 - 📫 Como me encontrar: **gizelyramos.dev@gmail.com**
 - 💼 Portfólio: **https://gizbra.github.io/portfoliodaGi/**
 - 🔗 LinkedIn: **[www.linkedin.com/in/gizely-bsramos](https://www.linkedin.com/in/gizely-bsramos/)**
@@ -43,7 +43,6 @@ Ah, não saia do perfil! Logo abaixo tem um quiz com 3 perguntas sobre o orgulho
 
 <div align="center">
   <h1>✨ Teste seu conhecimento ✨</h1>
- 
 </div>
 
 ## 🏳️‍⚧️ Desafio 1: Símbolos da Inclusão! 🏳️‍⚧️
@@ -53,102 +52,82 @@ Vamos falar sobre um símbolo importante de inclusão e progresso.
 
 **Qual bandeira foi criada para incluir e dar visibilidade às pessoas trans e às comunidades negras e LGBTQIA+?**
 
-1.  [🏳️‍🌈 Bandeira do Arco-Íris Clássica](#resposta-1-classica)
-2.  [🩷 Bandeira do Orgulho Lésbico](#resposta-1-lesbico)
-3.  [🤎 Bandeira Progress Pride](#resposta-1-progress)
+<details>
+  <summary>1. 🏳️‍🌈 Bandeira do Arco-Íris Clássica</summary>
+  <br>
+  A bandeira clássica é um ícone, mas ela não foi desenhada especificamente para incluir as nuances de raça e identidade de gênero que a comunidade precisava. Tente de novo!
+</details>
 
-<a id="resposta-1-classica"></a>
-### Resposta: Bandeira do Arco-Íris Clássica 🌈
+<details>
+  <summary>2. 🩷 Bandeira do Orgulho Lésbico</summary>
+  <br>
+  A bandeira lésbica é um símbolo importante para a comunidade, mas não é a que abrange todas as identidades mencionadas na pergunta. Continue explorando!
+</details>
 
-A bandeira clássica é um ícone, mas ela não foi desenhada especificamente para incluir as nuances de raça e identidade de gênero que a comunidade precisava. Tente de novo!
+<details>
+  <summary>3. 🤎 Bandeira Progress Pride</summary>
+  <br>
+  ✨ <strong>Correto!</strong> A Bandeira Progress Pride (ou Bandeira do Orgulho Progressivo) foi criada por Daniel Quasar em 2018 para dar mais visibilidade e inclusão a grupos marginalizados dentro da própria comunidade LGBTQIA+!
+  <br><br>
+  <a href="#desafio-2">➡️ Próxima Pergunta!</a>
+</details>
 
-[↩️ Voltar para a Pergunta 1](#desafio-1)
+<br>
 
-
-<a id="resposta-1-lesbico"></a>
-### Resposta: Bandeira do Orgulho Lésbico 💖
-
-A bandeira lésbica é um símbolo importante para a comunidade, mas não é a que abrange todas as identidades mencionadas na pergunta. Continue explorando!
-
-[↩️ Voltar para a Pergunta 1](#desafio-1)
-
-
-<a id="resposta-1-progress"></a>
-### Resposta: Bandeira Progress Pride 🤎
-
-✨ **Correto!** A Bandeira Progress Pride (ou Bandeira do Orgulho Progressivo) foi criada por Daniel Quasar em 2018 para dar mais visibilidade e inclusão a grupos marginalizados dentro da própria comunidade LGBTQIA+!
-
-[➡️ Próxima Pergunta!](#desafio-2)
-
-
-## 🗓️ Desafio 2: Datas Importantes! 🗓️
+<h2 id="desafio-2">🗓️ Desafio 2: Datas Importantes! 🗓️</h2>
 
 **Excelente! Você está indo muito bem!**
 Vamos testar seu conhecimento sobre as datas que celebramos.
 
 **Em qual mês do ano é celebrado o Mês do Orgulho LGBTQIA+ mundialmente?**
 
-1.  [🌸 Maio](#resposta-2-maio)
-2.  [☀️ Junho](#resposta-2-junho)
-3.  [🍂 Outubro](#resposta-2-outubro)
+<details>
+  <summary>1. 🌸 Maio</summary>
+  <br>
+  Maio é um mês lindo, mas o Mês do Orgulho é em outro período! Continue tentando para acertar a data da nossa grande celebração!
+</details>
 
+<details>
+  <summary>2. ☀️ Junho</summary>
+  <br>
+  ✅ <strong>Isso mesmo!</strong> Junho é o Mês do Orgulho LGBTQIA+, em memória da Rebelião de Stonewall, que ocorreu em 28 de junho de 1969!
+  <br><br>
+  <a href="#desafio-3">➡️ Último Desafio!</a>
+</details>
 
-<a id="resposta-2-maio"></a>
-### Resposta: Maio 🌸
+<details>
+  <summary>3. 🍂 Outubro</summary>
+  <br>
+  Outubro é conhecido por outras celebrações, mas não é o Mês do Orgulho. Não se preocupe, o importante é aprender!
+</details>
 
-Maio é um mês lindo, mas o Mês do Orgulho é em outro período! Continue tentando para acertar a data da nossa grande celebração!
+<br>
 
-[↩️ Voltar para a Pergunta 2](#desafio-2)
-
-
-<a id="resposta-2-junho"></a>
-### Resposta: Junho ☀️
-
-✅ **Isso mesmo!** Junho é o Mês do Orgulho LGBTQIA+, em memória da Rebelião de Stonewall, que ocorreu em 28 de junho de 1969!
-
-[➡️ Último Desafio!](#desafio-3)
-
-
-<a id="resposta-2-outubro"></a>
-### Resposta: Outubro 🍂
-
-Outubro é conhecido por outras celebrações, mas não é o Mês do Orgulho. Não se preocupe, o importante é aprender!
-
-[↩️ Voltar para a Pergunta 2](#desafio-2)
-
-
-## 🏆 Desafio 3: Celebração! 🏆
+<h2 id="desafio-3">🏆 Desafio 3: Celebração! 🏆</h2>
 
 **Chegamos ao último desafio, e você está arrasando!**
 
 **Qual é a principal mensagem que a comunidade LGBTQIA+ busca transmitir ao mundo através de suas lutas e celebrações?**
 
-1.  [📚 Conhecimento Técnico](#resposta-3-conhecimento)
-2.  [🤝 Aceitação e Igualdade](#resposta-3-aceitacao)
-3.  [💰 Sucesso Financeiro](#resposta-3-financeiro)
+<details>
+  <summary>1. 📚 Conhecimento Técnico</summary>
+  <br>
+  Conhecimento técnico é super importante para um dev, mas não é a principal mensagem da comunidade LGBTQIA+. Nossas lutas vão além do código!
+</details>
 
+<details>
+  <summary>2. 🤝 Aceitação e Igualdade</summary>
+  <br>
+  🌈 <strong>VOCÊ É INCRÍVEL!</strong> Essa é a resposta! A principal mensagem e luta da comunidade LGBTQIA+ é por <strong>aceitação, respeito, igualdade de direitos e o fim da discriminação</strong> para todas as pessoas, independentemente de sua orientação sexual ou identidade de gênero.
+</details>
 
-<a id="resposta-3-conhecimento"></a>
-### Resposta: Conhecimento Técnico 📚
+<details>
+  <summary>3. 💰 Sucesso Financeiro</summary>
+  <br>
+  Sucesso financeiro é bom para qualquer um, mas não é o foco central da mensagem da comunidade LGBTQIA+. Nossas prioridades são mais sobre direitos humanos e dignidade.
+</details>
 
-Conhecimento técnico é super importante para um dev, mas não é a principal mensagem da comunidade LGBTQIA+. Nossas lutas vão além do código!
-
-[↩️ Voltar para a Pergunta 3](#desafio-3)
-
-
-<a id="resposta-3-aceitacao"></a>
-### Resposta: Aceitação e Igualdade 🤝
-
-🌈 **VOCÊ É INCRÍVEL!** Essa é a resposta! A principal mensagem e luta da comunidade LGBTQIA+ é por **aceitação, respeito, igualdade de direitos e o fim da discriminação** para todas as pessoas, independentemente de sua orientação sexual ou identidade de gênero.
-
-
-<a id="resposta-3-financeiro"></a>
-### Resposta: Sucesso Financeiro 💰
-
-Sucesso financeiro é bom para qualquer um, mas não é o foco central da mensagem da comunidade LGBTQIA+. Nossas prioridades são mais sobre direitos humanos e dignidade.
-
-[↩️ Voltar para a Pergunta 3](#desafio-3)
-
+<br>
 
 <div align="center">
   <h2>🎉 PARABÉNS 🎉</h2>
@@ -156,6 +135,5 @@ Sucesso financeiro é bom para qualquer um, mas não é o foco central da mensag
   <img src="https://media.giphy.com/media/1OUmvCxXx2jHkQJY9b/giphy.gif" width="300" alt="Rainbow Gay Pride Magic Eden GIF" />
   <p>Muito obrigado(a) por jogar. Sua presença aqui faz a diferença!<p>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
