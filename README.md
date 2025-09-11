@@ -4,7 +4,7 @@
 
 ### ✨ Sobre Mim
 <p align="left">
-  Graduada em Rede de Computadores, e atual estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e por resolver problemas. Tenho focado meus estudos em Desenvolvimento Web: Front-End.
+  Graduada em Rede de Computadores, e atual estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e por resolver problemas. Tenho focado meus estudos em Desenvolvimento Web.
 </p>
 
 ### 💻 Habilidades:
